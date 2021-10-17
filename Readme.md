@@ -1,6 +1,6 @@
 ### Hi there, I'm Njoki Njuki
 
-## I'm a MSc Statistics and Data Science (Biostatistics) student at Hasselt University
+## I'm an MSc Statistics and Data Science (Biostatistics) student at Hasselt University
 - 📚 I’m currently a Biostatistician in training 📈
 - I'm the organiser of R-Ladies Nairobi 😊
 - 📊 I'm a Data Management and Analysis/ Basic Statistics trainer at TCC, Africa
