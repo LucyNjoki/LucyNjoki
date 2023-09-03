@@ -1,10 +1,9 @@
 ### Hi there, I'm Njoki Njuki
 
-- ✨I am a Research Assistant - Data Wrangling at The University of Manchester, Centre for Epidemiology VS Arthritis
-- I'm a second year MSc Statistics and Data Science (Biostatistics) student at Hasselt University, Belgium
+- I'm a second-year MSc Statistics and Data Science (Biostatistics) student at Hasselt University, Belgium
 - 📚 I’m currently a Biostatistician in training 📈
 - I'm the organiser of R-Ladies Nairobi 😊
-- I'm a member of R for DS bookclub -> A learner I am! 😊
+- I'm an R for DS bookclub member -> I am a learner! 😊
 - ⚡ Fun fact: I love playing video games 🎮, trivia games, reading books and blogs plus reggae roots conscious!
 
 ### Connect with me:
