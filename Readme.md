@@ -10,4 +10,4 @@
 
 - [Twitter](https://twitter.com/lucy_njokinjuki)
 - [LinkedIn](https://www.linkedin.com/in/lucy-njoki/)
-- [Personal Website](https://lucynjoki.github.io/lucynjokinjuki/)
+- [Personal Website](https://lucynjokinjuki.github.io/lucynjokinjuki/)
